@@ -1,5 +1,5 @@
 # About Me:
-Graduate of Political Science from Alauddin State Islamic University Makassar with a strong interest in programming, particularly in front-end web development and graphic design. Currently attending a Full-Stack Developer bootcamp while actively working on projects to strengthen foundational skills in HTML, CSS, Javascript, Typescript, Tailwind CSS, Next Js, React Js and design tools Adobe Potoshop, Adobe Indesign, and Adobe Illustration. Known for being adaptable and open-minded, with the ability to work both independently and collaboratively. Eager to transition into the tech industry and contribute to creative, user-focused digital solutions.
+Graduate of Political Science from Alauddin State Islamic University Makassar with a strong interest in programming, particularly in front-end web development and graphic design. Currently attending a Full-Stack Developer bootcamp while actively working on projects to strengthen foundational skills in HTML, CSS, Javascript, Typescript, Tailwind CSS, Next Js and React Js. Known for being adaptable and open-minded, with the ability to work both independently and collaboratively. Eager to transition into the tech industry and contribute to creative, user-focused digital solutions.
 
 
 ## Socials:
